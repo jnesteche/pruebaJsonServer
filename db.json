@@ -1,22 +1,18 @@
 {
 	"posts": [
 		{
-			"id": 1,
 			"title": "titulo1",
 			"content": "Esto es el contenido del primer post"
 		},
 		{
-			"id": 2,
 			"title": "titulo2",
 			"content": "Esto es el contenido del segundo post"
 		},
 		{
-			"id": 3,
 			"title": "titulo3",
 			"content": "Esto es el contenido del tercer post"
-		}
-		,{
-			"id": 4,
+		},
+		{
 			"title": "titulo4",
 			"content": "Esto es el contenido del cuarti post"
 		}	
